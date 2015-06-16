@@ -2,7 +2,7 @@ hydro-region-geojson
 ====================
 
 Top-level (region level) hydrologic unit boundaries in geojson.<br/>
-Generated from 1:2,000,000-Scale Hydrologic Unit Boundaries (<a href="http://www.nationalatlas.gov/mld/hucs00m.html" target="_blank">http://www.nationalatlas.gov/mld/hucs00m.html</a>).<br/>
+Generated from 1:2,000,000-Scale Hydrologic Unit Boundaries (http://www.nationalatlas.gov/mld/hucs00m.html).<br/>
 To play with the geojson file, you can use:<br/>
 http://geojson.io/<br/>
 http://geojsonlint.com/<br/>
